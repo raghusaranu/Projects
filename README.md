@@ -1,3 +1,10 @@
+Full Throttle labs React Assignment:
+
+React Big Calendar is used to create the calendar component, React Datepicker for the date and time picker for time, and React Router for routing.JSON Server with db.json file is used for powering the mock API and UI.
+
+First start the JSON Server using json-server --watch db.json.
+Then start the React Application by npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
