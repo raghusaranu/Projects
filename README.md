@@ -1,4 +1,4 @@
-Full Throttle labs React Assignment:
+React Calendar app to track tasks:
 
 React Big Calendar is used to create the calendar component, React Datepicker for the date and time picker for time, and React Router for routing.JSON Server with db.json file is used for powering the mock API and UI.
 
